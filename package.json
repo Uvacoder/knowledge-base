@@ -1,19 +1,19 @@
 {
-  "name": "pack11ty",
-  "version": "1.0.0-alpha.7",
-  "title": "Pack11ty",
-  "description": "an heavily opinionated Eleventy template project",
-  "homepage": "https://pack11ty.dev/",
+  "name": "knowledge-base",
+  "version": "1.0.0-alpha.1",
+  "title": "NH's KB",
+  "description": "My own slightly opinionated knowledge base",
+  "homepage": "https://kb.nicolas-hoizey.com/",
   "author": {
     "name": "Nicolas Hoizey",
     "url": "https://nicolas-hoizey.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhoizey/pack11ty.git"
+    "url": "git+https://github.com/nhoizey/knowledge-base.git"
   },
   "bugs": {
-    "url": "https://github.com/nhoizey/pack11ty/issues"
+    "url": "https://github.com/nhoizey/knowledge-base/issues"
   },
   "license": "MIT",
   "scripts": {

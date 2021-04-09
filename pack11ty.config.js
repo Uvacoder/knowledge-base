@@ -6,5 +6,5 @@ module.exports = {
   },
   defaultLang: 'en',
   permalinkFolders: true,
-  limitCollectionSizeInDevMode: 10,
+  limitCollectionSizeInDevMode: 100,
 };
